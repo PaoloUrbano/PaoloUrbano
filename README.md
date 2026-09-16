@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Paolo 👋
 
-<!--
-**PaoloUrbano/PaoloUrbano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer. I work on **distributed systems in Java**: large-scale
+enterprise platforms where sessions, messaging and transactions have to stay
+correct across service boundaries.
 
-Here are some ideas to get you started:
+Most of my work lives in private repositories, so this profile is where I
+publish what I can share: the demos behind the things I write.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Writing
+
+I write about problems I actually hit in production, with a reproducible repo
+attached.
+
+- **[Where OpenTelemetry Stops: The Missing 44ms in a Spring Boot Trace](https://dev.to/purbano/where-opentelemetry-stops-the-missing-44ms-in-a-spring-boot-trace-ld9)**.
+ distributed tracing across two Spring Boot services, and what
+  auto-instrumentation cannot see.
+  Repo: [`spring-boot-otel-demo`](https://github.com/PaoloUrbano/spring-boot-otel-demo)
