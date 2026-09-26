@@ -9,8 +9,14 @@ publish what I can share: the demos behind the things I write.
 
 ### Writing
 
-I write about problems I actually hit in production, with a reproducible repo
-attached.
+I write about problems I have hit in production and the design decisions
+behind them, with a reproducible repo attached.
+
+- **[Your Search Query Is a Program: Composing Role-Based SQL With the Strategy Pattern](https://dev.to/purbano/your-search-query-is-a-program-composing-role-based-sql-with-the-strategy-pattern-3o3a)**.
+  Why a search with optional filters and role-based visibility is application
+  logic, not a string, and how to compose it from strategies with a builder
+  that makes the AND/OR precedence leak impossible.
+  Repo: [`search-query-composition-demo`](https://github.com/PaoloUrbano/search-query-composition-demo)
 
 - **[The Row Says 'system': Spring Data JPA Auditing Outside the HTTP Request](https://dev.to/purbano/the-row-says-system-spring-data-jpa-auditing-outside-the-http-request-f77)**.
   Where the auditor's identity comes from when the write does not start from an
