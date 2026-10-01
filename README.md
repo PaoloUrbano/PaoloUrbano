@@ -28,3 +28,5 @@ behind them, with a reproducible repo attached.
   Distributed tracing across two Spring Boot services, and what
   auto-instrumentation cannot see.
   Repo: [`spring-boot-otel-demo`](https://github.com/PaoloUrbano/spring-boot-otel-demo)
+
+More articles, including shorter explainers without a repo, on [dev.to/purbano](https://dev.to/purbano).
